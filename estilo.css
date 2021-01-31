@@ -1,0 +1,24 @@
+#bloco{
+    background-color: black;
+    width: 500px;
+    height: 500px;
+    margin:auto;
+}
+.botao{
+    margin-top: 100px;
+    margin-left: 425px;
+    width: 100px;
+    
+}
+#botaoVermelho{
+    background-color: red ;
+    color: white;
+}
+#botaoAzul{
+    background-color: blue ;
+    color: white;
+}
+#botaoAmarelo{
+    background-color: yellow ;
+    color: black;
+}
